@@ -1,7 +1,9 @@
 # eichnera.github.io
 smorgasbord of my stuff
 ---
-## talk proposals
+### talk proposals
+### demo apps
+### demo apps for civic tech
 ---
 ## Abstract
 
