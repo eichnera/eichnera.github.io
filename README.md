@@ -1,4 +1,18 @@
 # eichnera.github.io
 smorgasbord of my stuff
 ---
-##talk proposal
+## talk proposals
+---
+## Abstract
+
+_A concise, engaging description for the public program. Limited to 600
+characters._
+
+## Details
+
+_Include any pertinent details such as outlines, outcomes or intended audience._
+
+## Pitch
+
+_Explain why this talk should be considered and what makes you qualified to
+speak on the topic._
